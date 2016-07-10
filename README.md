@@ -1,2 +1,2 @@
-# heartbank.github.io
-HeartBank
+# HeartBank®
+Official Website
