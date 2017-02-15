@@ -2,13 +2,14 @@
 Official Website
 
 ### Product Roadmap
-1. ~~APIs (v0)~~
-2. Tests (v1)
-3. CLI (v2)
-4. Documentation (v3)
-5. Web App
+1. ~~APIs~~
+2. ~~Tests~~
+3. ~~Documentation~~
+4. Node Module
+5. CLI
 6. Chrome Extension
-7. Desktop App
-8. iOS App
-9. Android App
-10. AI Library
+7. Web App
+8. Desktop App
+9. iOS App
+10. Android App
+11. AI Library
