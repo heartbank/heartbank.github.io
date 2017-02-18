@@ -5,7 +5,8 @@
 2. ~~Tests~~
 3. ~~Documentation~~
 4. ~~Web Apps~~
-5. Node Module
+5. Node Library
+5. Boilerplate App
 6. CLI
 7. Chrome Extension
 8. Desktop App
