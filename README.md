@@ -1,8 +1,5 @@
 ![HeartBank](https://cdn.rawgit.com/HeartBank/media/master/heartbank.png "HeartBank")
 
-# HeartBank®
-Official Website
-
 ### Product Roadmap
 1. ~~APIs~~
 2. ~~Tests~~
