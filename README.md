@@ -1,5 +1,9 @@
 ![HeartBank](https://cdn.rawgit.com/HeartBank/media/master/heartbank.png "HeartBank")
 
+## HeartBank Kiitos
+
+AI with a heart
+
 ## Developer Community
 - [Developer.HeartBank.org](https://github.com/HeartBank/developer.heartbank.org)
 - [Documentation](https://github.com/HeartBank/developer.heartbank.org/wiki/Introduction)
