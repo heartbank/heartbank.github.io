@@ -1,11 +1,11 @@
 ![HeartBank](https://cdn.rawgit.com/HeartBank/media/master/heartbank.png "HeartBank")
 
 ## Developer Community
-- [Developer.HeartBank.org](http://developer.heartbank.org)
+- [Developer.HeartBank.org](https://github.com/HeartBank/developer.heartbank.org)
 - [Documentation](https://github.com/HeartBank/developer.heartbank.org/wiki/Introduction)
 
 ## Family Manager
-- [Family.HeartBank.org](http://family.heartbank.org)
+- [Family.HeartBank.org](https://github.com/HeartBank/family.heartbank.org)
 - [Documentation](https://github.com/HeartBank/family.heartbank.org/wiki/Introduction)
 
 ## Product Roadmap
