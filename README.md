@@ -3,6 +3,7 @@
 ## HeartBank Kiitos
 
 AI with a heart
+`kiitos.heartbank.cloud`
 
 ## Developer Community
 - [Developer.HeartBank.org](https://github.com/HeartBank/developer.heartbank.org)
