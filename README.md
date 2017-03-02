@@ -4,7 +4,7 @@
 
 AI with a heart
 
-- Kiitos.HeartBank.org
+- [Kiitos.HeartBank.org](https://github.com/HeartBank/heartbank.github.io)
 - [Documentation](https://github.com/HeartBank/heartbank.github.io/wiki/Introduction)
 - https://kiitos.heartbank.cloud
 
