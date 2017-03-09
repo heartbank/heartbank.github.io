@@ -2,8 +2,7 @@
 
 ## HeartBank Kiitos
 
-AI with a heart
-World Peace Equation
+AI with a heart: World Peace Equation
 
 - [Kiitos.HeartBank.org](https://github.com/HeartBank/heartbank.github.io)
 - [Documentation](https://github.com/HeartBank/heartbank.github.io/wiki/Introduction)
