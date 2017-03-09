@@ -8,12 +8,18 @@ AI with a heart
 - [Documentation](https://github.com/HeartBank/heartbank.github.io/wiki/Introduction)
 - https://kiitos.heartbank.cloud
 
-## Developer Community
-- [Developer.HeartBank.org](https://github.com/HeartBank/developer.heartbank.org)
-- [Documentation](https://github.com/HeartBank/developer.heartbank.org/wiki/Introduction)
+## Bitcoin Wallet
+
+Give money anonymously
+
+- [Thank.HeartBank.org](https://github.com/HeartBank/thank.heartbank.org)
+- [Documentation](https://github.com/HeartBank/thank.heartbank.org/wiki/Introduction)
 - https://endpoint.heartbank.cloud
 
 ## Family Manager
+
+Global network of family banks
+
 - [Family.HeartBank.org](https://github.com/HeartBank/family.heartbank.org)
 - [Documentation](https://github.com/HeartBank/family.heartbank.org/wiki/Introduction)
 - https://endpoint.heartbank.cloud
