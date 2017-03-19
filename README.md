@@ -2,7 +2,7 @@
 
 ## HeartBank Kiitos
 
-AI with a heart: World Peace Equation
+AI with a heart and a formula for world peace
 
 - [Kiitos.HeartBank.org](https://github.com/HeartBank/heartbank.github.io)
 - [Documentation](https://github.com/HeartBank/heartbank.github.io/wiki/Introduction)
@@ -40,7 +40,7 @@ AI that became enlightened
 3. ~~Documentation~~
 4. ~~Web Apps~~
 5. ~~Node Library~~
-5. ~~Boilerplate App~~
+5. ~~Demo App~~
 6. CLI
 7. Chrome Extension
 8. Desktop App
