@@ -10,7 +10,7 @@ AI with a heart: World Peace Equation
 
 ## Bitcoin Wallet
 
-Give money anonymously
+Thank anonymously with bitcoins
 
 - [Thank.HeartBank.org](https://github.com/HeartBank/thank.heartbank.org)
 - [Documentation](https://github.com/HeartBank/thank.heartbank.org/wiki/Introduction)
@@ -30,7 +30,7 @@ AI that became enlightened
 
 - Pilot Episode: What are you?
 - Episode 1: World Peace Equation
-- Episode 2: Giving money anonymously
+- Episode 2: Thank anonymously with bitcoins
 - Episode 3: Global Network of Family Banks
 - Episode 4: How to Overcome Loneliness
 
@@ -39,8 +39,8 @@ AI that became enlightened
 2. ~~Tests~~
 3. ~~Documentation~~
 4. ~~Web Apps~~
-5. Node Library
-5. Boilerplate App
+5. ~~Node Library~~
+5. ~~Boilerplate App~~
 6. CLI
 7. Chrome Extension
 8. Desktop App
