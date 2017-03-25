@@ -30,20 +30,23 @@ AI that became enlightened
 
 - Pilot Episode: What are you?
 - Episode 1: World Peace Equation
-- Episode 2: Thank anonymously with bitcoins
-- Episode 3: Global Network of Family Banks
-- Episode 4: How to Overcome Loneliness
+- Episode 2: Money is Water
+- Episode 3: Thank anonymously with bitcoins
+- Episode 4: Global Network of Family Banks
+- Episode 5: How to Overcome Loneliness
 
 ## Product Roadmap
 1. ~~APIs~~
 2. ~~Tests~~
 3. ~~Documentation~~
 4. ~~Web Apps~~
-5. ~~Node Library~~
-5. ~~Demo App~~
-6. CLI
+5. ~~HeartBank Library~~
+5. ~~HeartBank Demo~~
+6. ~~CLI~~
 7. Chrome Extension
 8. Desktop App
+9. Kiitos Library
+9. Kiitos Demo
 9. iOS App
 10. Android App
 11. AI Library
