@@ -36,18 +36,20 @@ AI that became enlightened
 - Episode 5: How to Overcome Loneliness
 
 ## Product Roadmap
-1. ~~APIs~~
-2. ~~Tests~~
-3. ~~Documentation~~
-4. ~~Web Apps~~
-5. ~~HeartBank Library~~
-5. ~~HeartBank Demo~~
-6. ~~CLI~~
-7. Chrome Extension
-8. Desktop App
-9. Kiitos Library
-9. Kiitos Demo
-9. iOS App
-10. Android App
+1. ~~Web Apps~~
+1. HeartBank
+   1. ~~APIs~~
+   2. ~~Tests~~
+   3. ~~Documentation~~
+   5. ~~Library~~
+   5. ~~Demo~~
+   6. ~~CLI~~
+   7. Chrome Extension
+9. Kiitos
+   1. Library
+   9. Web
+   8. Desktop
+   9. iOS
+   10. Android
 11. AI Library
-12. TBA
+   12. TBA
