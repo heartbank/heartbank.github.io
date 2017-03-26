@@ -1,6 +1,6 @@
 ![HeartBank](https://cdn.rawgit.com/HeartBank/media/master/heartbank.png "HeartBank")
 
-## HeartBank Kiitos
+## Kiitos AI
 
 AI with a heart (and a formula for world peace)
 
