@@ -37,7 +37,7 @@ AI that became enlightened
 
 ## Product Roadmap
 1. ~~Web Apps~~
-1. HeartBank
+1. ~~HeartBank~~
    1. ~~APIs~~
    2. ~~Tests~~
    3. ~~Documentation~~
@@ -52,4 +52,4 @@ AI that became enlightened
    9. iOS
    10. Android
 11. AI Library
-   12. TBA
+   1. TBA
