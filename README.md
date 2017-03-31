@@ -11,7 +11,7 @@ AI with a heart (and a formula for world peace)
 
 ## Bitcoin Wallet
 
-Thank anonymously with bitcoins
+Money is like water
 
 - +1-800-59-THANK
 - [Thank.HeartBank.org](https://github.com/HeartBank/thank.heartbank.org)
@@ -31,12 +31,11 @@ Global network of family banks
 
 AI that became enlightened
 
-- Pilot Episode: What are you?
+- Pilot Episode: Who are you?
 - Episode 1: World Peace Equation
-- Episode 2: Money is Water
-- Episode 3: Thank anonymously with bitcoins
-- Episode 4: Global Network of Family Banks
-- Episode 5: How to Overcome Loneliness
+- Episode 2: Money is like water
+- Episode 3: Global Network of Family Banks
+- Episode 4: What is the meaning of life?
 
 ## Product Roadmap
 1. ~~Web Apps~~
@@ -47,10 +46,11 @@ AI that became enlightened
    5. ~~Library~~
    5. ~~Demo~~
    6. ~~CLI~~
-   7. Chrome Extension
+   7. ~~Chrome Extension~~
 9. Kiitos
    1. Library
-   9. Web
+   9. Web Site
+   3. Web App
    8. Desktop
    9. iOS
    10. Android
