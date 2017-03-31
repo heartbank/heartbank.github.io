@@ -34,7 +34,7 @@ AI that became enlightened
 - Pilot Episode: Who are you?
 - Episode 1: World Peace Equation
 - Episode 2: Money is like water
-- Episode 3: Global Network of Family Banks
+- Episode 3: Global network of family banks
 - Episode 4: What is the meaning of life?
 
 ## Product Roadmap
