@@ -39,11 +39,11 @@ AI that became enlightened
 
 ## Product Roadmap
 
-11. Bitcoin Wallet
+1. Bitcoin Wallet
     1. Ethereum
     2. Blockchain
     
-1. Family Bank
+2. Family Bank
    1. ~~Web Apps~~
    1. ~~APIs~~
    2. ~~Tests~~
@@ -52,7 +52,7 @@ AI that became enlightened
    5. ~~Demo~~
    6. ~~CLI~~
    7. ~~Chrome Extension~~
-9. Kiitos AI
+3. Kiitos AI
    1. Library
    9. Web Site
    3. Web App
