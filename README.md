@@ -40,8 +40,8 @@ AI that became enlightened
 ## Product Roadmap
 
 1. Bitcoin Wallet
-    1. Ethereum
-    2. Blockchain
+    1. Blockchain
+    2. Ethereum
     
 2. Family Bank
    1. ~~Web Apps~~
