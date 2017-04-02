@@ -38,7 +38,7 @@ AI that became enlightened
 - Episode 4: What is the meaning of life?
 
 ## Product Roadmap
-1. ~~HeartBank~~
+1. Family Bank
    1. ~~Web Apps~~
    1. ~~APIs~~
    2. ~~Tests~~
@@ -47,14 +47,12 @@ AI that became enlightened
    5. ~~Demo~~
    6. ~~CLI~~
    7. ~~Chrome Extension~~
-9. Kiitos
+9. Kiitos AI
    1. Library
    9. Web Site
    3. Web App
    8. Desktop
    9. iOS
    10. Android
-11. Blockchain
-    1. TBA
-11. AI
+11. Ethereum Blockchain
     1. TBA
