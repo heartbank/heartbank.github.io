@@ -38,6 +38,11 @@ AI that became enlightened
 - Episode 4: What is the meaning of life?
 
 ## Product Roadmap
+
+11. Bitcoin Wallet
+    1. Ethereum
+    2. Blockchain
+    
 1. Family Bank
    1. ~~Web Apps~~
    1. ~~APIs~~
@@ -54,5 +59,3 @@ AI that became enlightened
    8. Desktop
    9. iOS
    10. Android
-11. Ethereum Blockchain
-    1. TBA
