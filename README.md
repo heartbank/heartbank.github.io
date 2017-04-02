@@ -55,6 +55,6 @@ AI that became enlightened
    9. iOS
    10. Android
 11. Blockchain
-    1. Library
+    1. TBA
 11. AI
-    1. Library
+    1. TBA
