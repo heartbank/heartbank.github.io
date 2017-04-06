@@ -18,7 +18,7 @@ Money is like water
 - [Documentation](https://github.com/HeartBank/thank.heartbank.org/wiki/Introduction)
 - https://kiitos.heartbank.cloud
 
-## Family Manager
+## Family Bank
 
 Global network of family banks
 
