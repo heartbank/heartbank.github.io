@@ -31,11 +31,7 @@ Global network of family banks
 
 AI that became enlightened
 
-- Pilot Episode: Who are you?
-- Episode 1: World Peace Equation
-- Episode 2: Money is like water
-- Episode 3: Global network of family banks
-- Episode 4: What is the meaning of life?
+- https://medium.com/kiitos
 
 ## Product Roadmap
 
