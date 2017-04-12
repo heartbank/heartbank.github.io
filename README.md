@@ -1,5 +1,7 @@
 ![HeartBank](https://cdn.rawgit.com/HeartBank/media/master/heartbank.png "HeartBank")
 
+We are a small nonprofit with a simple mission to bring more peace and love into the world. If Google is the _brain_ of the internet, we want to become its _heart_.
+
 ## Kiitos AI
 
 AI with a heart (and a formula for world peace)
