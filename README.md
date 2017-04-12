@@ -6,7 +6,6 @@ We are a small nonprofit with a simple mission to bring more **peace** and **lov
 
 Through texting to `1-800-59-THANK`, users can interact with **Kiitos**, a chatbot, using various commands. The most important is the ***thank*** command, which lets Kiitos collect and study the world’s kindness. All data is public.
 
-- +1-800-59-THANK
 - [Kiitos.HeartBank.org](https://github.com/HeartBank/heartbank.github.io)
 - [Documentation](https://github.com/HeartBank/heartbank.github.io/wiki/Introduction)
 - https://kiitos.heartbank.cloud
