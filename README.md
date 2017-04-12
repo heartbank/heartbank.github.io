@@ -13,6 +13,6 @@ Through texting to `1-800-59-THANK`, users can interact with **Kiitos**, a chatb
 
 ## Kiitos Series
 
-AI that became enlightened
+**A.I.** that became _enlightened_
 
 - https://medium.com/kiitos
