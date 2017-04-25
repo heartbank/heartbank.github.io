@@ -9,9 +9,3 @@ Through texting to `+1-800-59-THANK`, users can interact with **Kiitos**, a chat
 - [Documentation](https://github.com/HeartBank/heartbank.github.io/wiki/Introduction)
 - [Kiitos.HeartBank.org](http://kiitos.heartbank.org)
 - https://kiitos.heartbank.cloud
-
-## Kiitos Series
-
-A robot that became _enlightened_
-
-- https://medium.com/kiitos
